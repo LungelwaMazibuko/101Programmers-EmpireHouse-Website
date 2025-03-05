@@ -61,7 +61,7 @@ npm start
 ## Contributors
 
 ```yaml
-- [Your Name] - Lead Developer
+- Lungelwa Mazibuko - Lead Developer
 - [Contributor 2] - UI/UX Designer
 - [Contributor 3] - Backend Developer
 - [Contributor 4] - Project Manager
@@ -75,5 +75,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions, service inquiries, or bookings, reach out to **[Your Email]** or visit our website at [**EmpireHouse Productions Official Site**](YOUR_WEBSITE_URL).
+For any questions, service inquiries, or bookings, reach out to **infolungelwamazibuko@gmail.com** or visit our website at [**EmpireHouse Productions Official Site**](YOUR_WEBSITE_URL).
 
