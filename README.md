@@ -62,17 +62,17 @@ Start the development server:
 
 npm start
 
-Usage
+# Usage
 
-Browse Services: Explore our sound, lighting, stage, and AV services.
+**Browse Services**: Explore our sound, lighting, stage, and AV services.
 
-Request a Quote: Submit details about your event to get a customized quote.
+**Request a Quote**: Submit details about your event to get a customized quote.
 
-Book a Service: Secure your event production services through our online booking system.
+**Book a Service**: Secure your event production services through our online booking system.
 
-Manage Your Events: Log in to view your bookings, invoices, and past projects.
+**Manage Your Events**: Log in to view your bookings, invoices, and past projects.
 
-Live Event Support: Our team provides real-time support during your event to ensure flawless execution.
+**Live Event Support**: Our team provides real-time support during your event to ensure flawless execution.
 
 Contributors
 
@@ -88,10 +88,10 @@ Contributors
 
 [Contributor 6] - Lighting & Stage Expert
 
-License
+# License
 
 This project is licensed under the MIT License.
 
-Contact
+# Contact
 
 For any questions, service inquiries, or bookings, reach out to [Your Email] or visit our website at EmpireHouse Productions Official Site.
