@@ -65,7 +65,7 @@ npm start
 - Mzwandile Dlamini (https://github.com/ST10295952) - UI/UX Designer
 - Lungelwa Mazibuko (https://github.com/LungelwaMazibuko) - Backend Developer
 - Asemahle Nonkwelo(https://github.com/AsemahleNonkwelo) - Project Manager
-- Makaphile () - Bussiness Analyst
+- Makaphile (https://github.com/Makaphile) - Bussiness Analyst
 
 
 
