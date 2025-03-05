@@ -75,5 +75,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions, service inquiries, or bookings, reach out to **infolungelwamazibuko@gmail.com** or visit our website at [**EmpireHouse Productions Official Site**](YOUR_WEBSITE_URL).
+For any questions, service inquiries, or bookings, visit our website at [**EmpireHouse Productions Official Site**](YOUR_WEBSITE_URL).
 
