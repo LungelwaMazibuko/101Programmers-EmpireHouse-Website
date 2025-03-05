@@ -60,14 +60,14 @@ npm start
 
 ## Contributors
 
-```yaml
-- Lungelwa Mazibuko - Lead Developer
+
+- Lungelwa Mazibuko (https://github.com/LungelwaMazibuko) - Lead Developer
 - [Contributor 2] - UI/UX Designer
 - [Contributor 3] - Backend Developer
 - [Contributor 4] - Project Manager
 - [Contributor 5] - Sound & AV Specialist
 - [Contributor 6] - Lighting & Stage Expert
-```
+
 
 ## License
 
