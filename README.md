@@ -1,6 +1,6 @@
 # EmpireHouse Productions Website
 
-![EmpireHouse Productions Website Screenshot](URL_TO_SCREENSHOT)
+![EmpireHouse Productions Website Screenshot](Images/logo-icon.jpeg)
 
 ## Overview
 
