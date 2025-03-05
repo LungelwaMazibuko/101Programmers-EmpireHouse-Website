@@ -63,10 +63,10 @@ npm start
 
 - Lungelwa Mazibuko (https://github.com/LungelwaMazibuko) - Lead Developer
 - Mzwandile Dlamini (https://github.com/ST10295952) - UI/UX Designer
-- [Contributor 3] - Backend Developer
+- Lungelwa Mazibuko (https://github.com/LungelwaMazibuko) - Backend Developer
 - Asemahle Nonkwelo(https://github.com/AsemahleNonkwelo) - Project Manager
-- [Contributor 5] - Sound & AV Specialist
-- [Contributor 6] - Lighting & Stage Expert
+- Makaphile () - Bussiness Analyst
+
 
 
 ## License
