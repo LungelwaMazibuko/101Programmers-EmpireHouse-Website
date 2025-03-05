@@ -8,7 +8,7 @@ EmpireHouse Production is a website designed to showcase and support the creativ
 
 This project is built using the following programming languages and technologies:
 
-- **HTML5**: For structuring the content of the website.
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />: For structuring the content of the website.
 - **CSS3**: For styling and layout.
 - **JavaScript**: For interactivity and dynamic content.
 - **Node.js**: For server-side functionality.
