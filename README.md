@@ -29,7 +29,7 @@ Backend:   Node.js, Express.js
 Database:  MongoDB
 Auth:      Firebase Auth / JWT
 Hosting:   Vercel / Netlify
-Payments:  Stripe / PayPal
+Payments:  Visa / PayPal
 ```
 
 ## Installation
@@ -61,11 +61,11 @@ npm start
 ## Contributors
 
 
-- Lungelwa Mazibuko (https://github.com/LungelwaMazibuko) - Lead Developer
-- Mzwandile Dlamini (https://github.com/ST10295952) - UI/UX Designer
-- Lungelwa Mazibuko (https://github.com/LungelwaMazibuko) - Backend Developer
-- Asemahle Nonkwelo(https://github.com/AsemahleNonkwelo) - Project Manager
-- Makaphile (https://github.com/Makaphile) - Bussiness Analyst
+- **Lungelwa Mazibuko** (https://github.com/LungelwaMazibuko) - Lead Developer
+- **Mzwandile Dlamini** (https://github.com/ST10295952) - UI/UX Designer
+- **Lungelwa Mazibuko** (https://github.com/LungelwaMazibuko) - Backend Developer
+- **Asemahle Nonkwelo** (https://github.com/AsemahleNonkwelo) - Project Manager
+- **Makaphile Jula** (https://github.com/Makaphile) - Bussiness Analyst
 
 
 
