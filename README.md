@@ -66,7 +66,7 @@ npm start
 - **Lungelwa Mazibuko** (https://github.com/LungelwaMazibuko) - Backend Developer
 - **Asemahle Nonkwelo** (https://github.com/AsemahleNonkwelo) - Project Manager
 - **Makaphile Jula** (https://github.com/Makaphile) - Bussiness Analyst
-- **[Name]** ([https://github.com/](https://github.com/Velemuseni) - Content Creator
+- **[Name]** (https://github.com/Velemuseni) - Content Creator
 - **[Name]** (https://github.com/Mongezi2003) - Quality Assurance 
 
 
