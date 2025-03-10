@@ -1,7 +1,7 @@
 # EmpireHouse Productions Website
 
 ![EmpireHouse Productions Website Screenshot](Images
-/Empirehouse Production Prototype.jpeg)
+/Empirehouse-Production-Prototype.jpeg)
 
 ## Overview
 
