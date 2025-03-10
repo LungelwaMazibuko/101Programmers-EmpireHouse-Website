@@ -62,7 +62,7 @@ npm start
 
 
 - **Lungelwa Mazibuko** (https://github.com/LungelwaMazibuko) - Lead Developer
-- **Mzwandile Dlamini** (https://github.com/ST10295952) - UI/UX Designer
+- **Mzwandile Dlamini & Lungelwa Mazibuko** (https://github.com/ST10295952) & (https://github.com/LungelwaMazibuko) - UI/UX Designer
 - **Lungelwa Mazibuko** (https://github.com/LungelwaMazibuko) - Backend Developer
 - **Asemahle Nonkwelo** (https://github.com/AsemahleNonkwelo) - Project Manager
 - **Makaphile Jula** (https://github.com/Makaphile) - Bussiness Analyst
