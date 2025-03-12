@@ -1,0 +1,16 @@
+ul {
+    list-style-type: none;
+    padding: auto;
+}
+
+li{
+    display: inline;
+}
+
+nav {
+    align-items: center;
+}
+
+a{
+    padding: 20px;
+}
