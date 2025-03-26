@@ -1,0 +1,224 @@
+Project Name: Empire House Productions Booking System
+
+Prepared By: Makaphile 
+
+Date: 20 March 2025
+
+Version: 1.0
+
+
+
+1.	Introduction
+
+
+
+1.1	Project Overview
+
+1.2	
+
+Empire House Productions requires a website and mobile application to facilitate equipment rentals for events. The system will allow customers to browse available equipment, view pricing, request quotes, and book rentals online.
+
+
+
+1.3	Business Objectives
+
+1.4	
+
+The main objectives of the project are:
+
+
+
+To streamline the equipment rental process.
+
+
+
+To increase customer engagement through a user-friendly booking system.
+
+
+
+To reduce manual processes by integrating an automated booking system.
+
+
+
+To enhance visibility of available equipment with a well-structured website and mobile app.
+
+
+
+
+
+1.3 Scope
+
+
+
+The system will include:
+
+
+
+A website for clients to browse and book equipment.
+
+
+
+A mobile application with the same functionalities as the website.
+
+
+
+A backend system to manage inventory, bookings, and payments.
+
+
+
+Integration with payment gateways for online transactions.
+
+
+
+
+
+2.	Business Requirements
+
+ID-REQUIREMENTS-PRIORITY-NOTES
+
+BR01-Users must be able to browse and view equipment categories.-High-Includes images descriptions and pricing.
+
+BR02-Users must be able to request a quote or book equipment.-High-Booking should include duration and selection.
+
+BR03-Users must receive booking confirmation via email/sms.-Medium-Automated confirmation emails.
+
+BR04-Admins must be able to manage equipment inventory.-High-Add, edit or remove equipment.
+
+BR05-The system must allow online payments.-High-Secure payment processing
+
+BR06-User must be able to create accounts and login.-Medium-Optional for faster checkout.
+
+BR07-The system should support order tracking and history.-Medium-Customers cam view past and upcoming rentals.
+
+
+
+
+
+3.	Functional Requirements
+
+
+
+3.1	User Roles
+
+3.2	
+
+1.	Customers – Browse equipment, request quotes, book rentals, make payments.
+
+
+
+
+
+2.	Admins – Manage inventory, process bookings, generate reports.
+
+
+
+
+
+
+
+3.3	Website & Mobile App Features
+
+3.4	
+
+Equipment Catalog – Organized by category, with images, descriptions, and pricing.
+
+
+
+Booking System – Users select equipment, set rental duration, and confirm the booking.
+
+
+
+Payment Integration – Secure payment processing via PayFast, PayGate, or another provider.
+
+
+
+User Accounts – Customers can register, log in, and track orders.
+
+
+
+Admin Dashboard – Inventory management, order processing, analytics.
+
+
+
+
+
+4.Technical Requirements 
+
+ID-Requirement-Details
+
+TR01-Hosting-Cloud based hosting(AWS,Azure or similar).
+
+TR02-Database-SQL based database for sorting equipment and bookings.
+
+TR03-Security-SSL encryption user authentication and secure payment.
+
+TR04-Mobile Compability-Mobile friendly UI and dedicated app for android and ios.
+
+5.	Assumptions & Constraints
+
+
+
+The client will provide equipment details, pricing, and images for the system.
+
+
+
+Payment gateway integration depends on third-party API availability.
+
+
+
+The system should be scalable for future expansion.
+
+
+
+
+
+6.Acceptance Criteria
+
+
+
+The website and mobile app must allow users to browse, book, and pay for rentals.
+
+
+
+Admins must be able to manage inventory and bookings efficiently.
+
+
+
+The system should provide real-time availability updates on equipment.
+
+
+
+Customers should receive email or SMS notifications for booking confirmations.
+
+
+
+
+
+7.Risks & Dependencies
+
+RISK-IMPACT-MITIGATION
+
+Delays in equipment data collection.-High-Client to provide details asap.
+
+Payment gateway issues.-High-Ensure multiple payment options.
+
+Scope creep(new features added mid project).-Medium-Lockdown requirement is early and get client sign off.
+
+8.	Next Steps
+
+
+
+✅ Finalize UI/UX designs based on these requirements.
+
+✅ Share BRD with developers and get their input.
+
+✅ Begin development phase.
+
+
+
+
+
+
+
+
+
