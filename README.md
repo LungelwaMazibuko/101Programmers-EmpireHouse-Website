@@ -1,6 +1,6 @@
 # EmpireHouse Productions Website
 
-![EmpireHouse Productions Website Screenshot](Images/Empirehouse_Production_Prototype.jpeg)
+**Click To Preview:** <a href="https://www.figma.com/proto/tZUzonM6y9wKvqjLfPP5Ub/Empirehouse-Production-Prototype?t=dxBQboyED6sHpvCq-1">![EmpireHouse Productions Website Screenshot](Images/Empirehouse_Production_Prototype.jpeg)</a>
 
 ## Overview
 
@@ -62,12 +62,11 @@ npm start
 
 
 - **Lungelwa Mazibuko** (https://github.com/LungelwaMazibuko) - Lead Developer
-- **Mzwandile Dlamini & Lungelwa Mazibuko** (https://github.com/ST10295952) & (https://github.com/LungelwaMazibuko) - UI/UX Designer
-- **Lungelwa Mazibuko** (https://github.com/LungelwaMazibuko) - Backend Developer
+- **Mzwandile Dlamini** (https://github.com/ST10295952) - UI/UX Designer
 - **Asemahle Nonkwelo** (https://github.com/AsemahleNonkwelo) - Project Manager
 - **Makaphile Jula** (https://github.com/Makaphile) - Bussiness Analyst
-- **[Name]** (https://github.com/Velemuseni) - Content Creator
-- **[Name]** (https://github.com/Mongezi2003) - Quality Assurance 
+- **Vulemusini** (https://github.com/Velemuseni) - Content Creator
+- **Mongezi** (https://github.com/Mongezi2003) - Quality Assurance
 
 
 
